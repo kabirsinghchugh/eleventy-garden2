@@ -1,5 +1,4 @@
-## Are you a tree or a potato?
-
+# Philosophy of Note Taking - Are you a tree or a potato?
 
 
 ### Tree system
