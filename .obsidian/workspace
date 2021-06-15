@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy of Note-taking.md",
+            "file": "notes/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy of Note-taking.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "637c4adf5ba779f1",
   "lastOpenFiles": [
+    "notes/index.md",
     "notes/Philosophy of Note-taking.md",
     "notes/Untitled.md",
     "notes/_drafts/Template.md",
@@ -95,7 +96,6 @@
     "notes/Third-Note.md",
     "notes/test.md",
     "notes/Second-Note.md",
-    "notes/index.md",
     "notes/First-Note.md",
     "about.md"
   ]
