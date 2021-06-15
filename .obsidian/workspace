@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "81d7de5fa2f1f775",
+        "id": "637c4adf5ba779f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/_drafts/Template.md",
+            "file": "notes/Philosophy of Note-taking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/_drafts/Template.md",
+                "file": "notes/Philosophy of Note-taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,17 @@
     "width": 209,
     "collapsed": true
   },
-  "active": "81d7de5fa2f1f775",
+  "active": "637c4adf5ba779f1",
   "lastOpenFiles": [
-    "notes/_drafts/😁 grinning.md",
-    "README.md",
-    "CONTRIBUTING.md",
-    "about.md"
+    "notes/Untitled.md",
+    "notes/_drafts/Template.md",
+    "notes/_drafts/README.md",
+    "notes/Third-Note.md",
+    "notes/test.md",
+    "notes/Second-Note.md",
+    "notes/index.md",
+    "notes/First-Note.md",
+    "about.md",
+    "CONTRIBUTING.md"
   ]
 }
