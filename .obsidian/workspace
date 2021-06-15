@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
+            "file": "notes/404.md.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
+                "file": "notes/404.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "637c4adf5ba779f1",
   "lastOpenFiles": [
+    "notes/Untitled.md",
     "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
     "notes/Philosophy of Note-taking.md",
     "index.md",
     "notes/index.md",
     "about.md",
     "notes/First-Note.md",
-    "notes/Untitled.md",
     "notes/_drafts/Template.md",
     "notes/_drafts/README.md",
     "notes/Third-Note.md"
