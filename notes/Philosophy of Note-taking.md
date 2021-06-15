@@ -29,21 +29,6 @@ Thus, notes are not for the archivist, but thoughts expressed in the most consci
 
 - Standardized. Fix a template to your note-taking and be consistent with it.
 
-- The note's information must be retrievable immediately. Write in long form
+- The note's information must be retrievable immediately. Write in long form instead of outlines. Outlines are good for organizing, but not for future learning and writing. Reading outlines is just a form of *cramming*. Make short notes of 300-700 words per concept.
 
-## Are you a tree or a potato?
-
-### Tree system
-
-> Also known as Category, hierarchical, **Top-down**, Linear
-
-- ***Status Quo***
-
-### Potato System 
-
-> Also known as Non-Linear, Chaotic, Bottom-Up
-
-#### Order from Chaos
-
-
-
+Also read - [[Philosophy of Note Taking - Are you a tree or a potato?|Are you a tree or a potato?]]
