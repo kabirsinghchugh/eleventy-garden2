@@ -1,6 +1,6 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "Kabir's Digital Garden",
+    "desc": "Weeding out and watering the seeds of thought!",
+    "author": "Kabir Chugh",
+    "baseurl": "https://eleventy-garden.vercel.app"
 }

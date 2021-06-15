@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Hello There!
+I'm Kabir Chugh. I'm an economist  from New Delhi , India.

@@ -1,4 +1,4 @@
-# Easter Egg
+# Second Note
 
 Easter eggs are a thing.
 
