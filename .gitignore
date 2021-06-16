@@ -1,4 +1,6 @@
 node_modules/
 _site/
 .github/
-.obsidian/
+notes/.obsidian/
+notes/.obsidian-git-data
+.obsidian-git-data
