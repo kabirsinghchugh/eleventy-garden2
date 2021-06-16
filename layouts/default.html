@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="https://unpkg.com/katex@latest/dist/katex.min.css" />
     {% include head.html %}
 </head>
 <body>
@@ -17,8 +16,7 @@
         </nav>
     </header>
     <main>
-        
-        {{content | math}}
+        {{content | math | safe}}
     </main>
     
     <footer class="page-footer">
