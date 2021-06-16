@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "568a40bc0bbd30d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Philosophy of Note taking - Principles of Note Taking.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
+                "file": "notes/Philosophy of Note taking - Principles of Note Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +97,17 @@
     "width": 209,
     "collapsed": true
   },
-  "active": "637c4adf5ba779f1",
+  "active": "568a40bc0bbd30d9",
   "lastOpenFiles": [
+    "notes/Philosophy of Note taking - Principles of Note Taking.md",
+    "index.md",
+    "notes/First-Note.md",
+    "notes/index.md",
     "notes/Philosophy of Note Taking - Are you a tree or a potato?.md",
     "notes/Philosophy of Note-taking.md",
     "about.md",
-    "index.md",
     "notes/Untitled.md",
-    "notes/index.md",
-    "notes/First-Note.md",
     "notes/_drafts/Template.md",
-    "notes/_drafts/README.md",
-    "notes/Third-Note.md"
+    "notes/_drafts/README.md"
   ]
 }
