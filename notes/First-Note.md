@@ -9,3 +9,7 @@ This is a link to my [[Second-Note]], or if you fancy [[Third-Note]].
 This is block math
 
 $$a^2+b^2-2ab$$
+
+Another one
+
+$$E = mc^2$$
