@@ -5,3 +5,4 @@ title: About these notes
 These are some fake notes. Feel free to poke around. You may spot an [[Second-Note]]  or two! Also, I like [[Third-Note]].
 
 
+You may start here [[Philosophy-of-Note-Taking-Principles-of-Note-Taking]]
