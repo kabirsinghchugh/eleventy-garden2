@@ -1,13 +1,13 @@
-# Philosophy of Note Taking - Are you a tree or a potato?
+# Note Taking - Are you a tree or a potato?
 
 
-### Tree system
+## Tree system
 
 > Also known as Category, hierarchical, **Top-down**, Linear
 
 - ***Status Quo***
 
-### Potato System 
+## Potato System 
 
 > Also known as Non-Linear, Chaotic, Bottom-Up
 
