@@ -4,4 +4,4 @@ title: About Me
 ---
 # About Me
 
-TODO
+Hi. I'm Kabir Chugh.
