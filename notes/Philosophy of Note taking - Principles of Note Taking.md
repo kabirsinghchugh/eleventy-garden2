@@ -31,4 +31,4 @@ Thus, notes are not for the archivist, but thoughts expressed in the most consci
 
 - The note's information must be retrievable immediately. Write in long form instead of outlines. Outlines are good for organizing, but not for future learning and writing. Reading outlines is just a form of *cramming*. Make short notes of 300-700 words per concept.
 
-Also read - [[Philosophy of Note Taking - Are you a tree or a potato?]]
+Also read - [[]]
