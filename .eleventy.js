@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
         html: true,
         linkify: true
     };
-    
+    const katex = require('katex')
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-attrs'))
@@ -26,7 +26,15 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
     })
-
+    eleventyConfig.addFilter('math', content => {
+        return content.replace(/\$\$(.+?)\$\$/g, (_, equation) => {
+          const cleanEquation = equation
+            .replace(/&lt;/g, '<')
+            .replace(/&gt;/g, '>')
+      
+          return katex.renderToString(cleanEquation, { throwOnError: false })
+        })
+      })
     eleventyConfig.setLibrary('md', md);
     
     eleventyConfig.addCollection("notes", function (collection) {
