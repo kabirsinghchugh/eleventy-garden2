@@ -19,5 +19,22 @@
 13.  The Daily Notes folder in Obsidian will serve both as your Fleeting Note repository as well as your to do list. Tag and mark the to do header section as a template. If a task say 'Write an essay on Obsidian' you can later move it into your Projects zettel under your My Life index note. 
 14.  Thus zettels work for organization and not notes only!
 15.  You will realize how important two way linking is and will never take for granted the fact that the app does it for you. Be grateful!
-16.  Finally you will learn really what an OG Luhmann was. The guy created a physical zettelkasten of 90,000 notes! Just managing hundreds of index cards required crazy focus and care not to miss a backlink here or there. 
+16.  Finally you will learn really what an OG Luhmann was. The guy created a physical zettelkasten of 90,000 notes! Just managing hundreds of index cards required crazy focus and care not to miss a backlink here or there. He really was the real deal.
+17.  Zettelkasten really works! The physical way will make you feel that Obsidian is childs play. You don't need every new plugin. Beyond a few, more plugins are detrimental to your productivity. Keep it simple. Focus on teh Note-taking!
 
+
+
+Extremely useful plugins in Obsidian in my opinion are
+- Core plugins - They do 90 percent of the work
+- Sliding Panes
+- Kanban
+- Collapse all - This little boy should be a core IMHO
+- What you cannot do without anyway(YMMV)
+	- Git
+	- Slated
+	- PDF to Markdown : I just convert a pdf to a note and make a literature note out of it
+	- Note refactor
+	- Prettifier 
+	- Advanced Tables
+
+Don't over-complicate Obsidian and focus on the note taking. You don't need Obsidian to be a Notion. Dataview and Templater are powerful but only for those who know what they're doing. 
