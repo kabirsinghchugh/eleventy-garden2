@@ -1,11 +1,12 @@
 module.exports = function(eleventyConfig) {
     
+    const katex = require('katex');
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,
         linkify: true
     };
-    const katex = require('katex')
+    
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
     .use(require('markdown-it-attrs'))
