@@ -1,3 +1,6 @@
+---
+math: false
+---
 # Why the BG is so misunderstood
 
 ***  
