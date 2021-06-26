@@ -1,8 +1,3 @@
----
-title: Why the Bhagawad Gita is so misunderstood
-tags: [Goodreads, Spirituality,Book-Reviews]
----
-
 # Why the BG is so misunderstood
 
 ***  
