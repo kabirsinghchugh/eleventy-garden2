@@ -10,3 +10,4 @@ You may start here :-
 ---
 - [[Philosophy of Note Taking - Principles of Note Taking]]
 - [[What I learnt from using a Physical Zettelkasten]]
+- [[Why the BG is so misunderstood|Why the Bhagawad Gita is So Misunderstood]]
