@@ -1,7 +1,5 @@
 ---
-tags: 
-	- music
-	- guide
+tags: [music,guide]
 ---
 
 # Emotions and Musical Keys
