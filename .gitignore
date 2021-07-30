@@ -4,3 +4,4 @@ _site/
 notes/.obsidian/
 notes/.obsidian-git-data
 .obsidian-git-data
+.DS_Store
