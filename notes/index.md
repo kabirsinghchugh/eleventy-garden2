@@ -13,3 +13,4 @@ You may start here :-
 - [[Index of Music and Arts]]
 - [[MicroBlog]]
 - [[My Notes]]
+- [[Quotes]]
