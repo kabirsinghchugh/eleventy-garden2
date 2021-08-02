@@ -15,3 +15,4 @@ You may start here :-
 - [[My Notes]]
 - [[Quotes]]
 - [[Code Snippets]]
+- [[Journal]]
