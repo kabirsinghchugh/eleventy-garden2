@@ -1,8 +1,7 @@
 ---
-title: About these notes
+title: Welcome To my Garden!
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[Second-Note]]  or two! Also, I like [[Third-Note]].
+# Index and Topic Pages
 
 
 You may start here :- 
@@ -16,3 +15,4 @@ You may start here :-
 - [[Quotes]]
 - [[Code Snippets]]
 - [[Journal]]
+- [[Vocabulary]]
