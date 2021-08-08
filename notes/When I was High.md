@@ -4,6 +4,8 @@ tags: consciousness,high,phenomenology
 date: 2021-05-25
 ---
 
+#microblog
+
 # When I was High
       
 This Monday I smoked weed with Karan. It was a nice day overall. Lets recap it phenomenologically
