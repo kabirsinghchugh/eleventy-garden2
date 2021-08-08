@@ -7,7 +7,7 @@ title: Welcome To my Garden!
 You may start here :- 
 
 ---
-
+- [[Aphorisms]]
 - [[Index of Note-Taking and Organization]]
 - [[Index of Music and Arts]]
 - [[MicroBlog]]
