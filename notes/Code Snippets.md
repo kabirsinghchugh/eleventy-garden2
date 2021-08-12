@@ -1,4 +1,0 @@
-# Code Snippets
-
-- [[Python-Factorial]]
-- 

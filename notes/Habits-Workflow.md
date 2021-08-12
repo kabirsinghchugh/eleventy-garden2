@@ -1,13 +1,5 @@
 # Habits-Workflow
 
-- You have 4 vaults in [[Obsidian]]
-	- Obsidian-Vaults - *main vault* 
-	- PhD
-	- MyLife
-	- Jekyll Blog
-
-## Tips and tricks
-
 
 
 ## Organization
